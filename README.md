@@ -1,5 +1,5 @@
 
-# Verzel Store — Desafio Técnico de QA
+# Verzel Store [Desafio Técnico de QA]
 
 Projeto desenvolvido para avaliação de qualidade da aplicação Verzel Store. Foram feitos testes funcionais, exploratórios, de API e automação com Playwright.
 
