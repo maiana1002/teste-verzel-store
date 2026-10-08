@@ -1,0 +1,26 @@
+{
+  "name": "teste-verzel-store",
+  "version": "1.0.0",
+  "description": "Verzel Store - Testes manuais, exploratórios, API e automação com Playwright.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiana1002/teste-verzel-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/maiana1002/teste-verzel-store/issues"
+  },
+  "homepage": "https://github.com/maiana1002/teste-verzel-store#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.4"
+  }
+}
